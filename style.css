@@ -1,0 +1,47 @@
+form #name {
+    width: 81%;
+    padding: 7px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+  
+  }
+  form #email {
+    width: 81%;
+    padding: 7px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+  
+  }
+  form #dob {
+    width: 81%;
+    padding: 7px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+  
+  }
+  select {
+    width: 81%;
+    padding: 7px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  form #organization {
+    margin-left: 25px;
+    margin-bottom: 10px;
+  }
+  form #about-you {
+    margin-top: 5px;
+    width: 81%;
+    padding: 50px;
+  }
+  form #submit {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #b6d427;
+    width: 20%;
+    border-radius: 2px;
+    border-style: hidden;
+  }
